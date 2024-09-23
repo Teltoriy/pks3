@@ -16,9 +16,7 @@ class Product {
   final String url;
   final String fullDescription;
 
-  // Фабрика для создания объекта Product из JSON
   factory Product.fromJson(Map<String, dynamic> json) => _$ProductFromJson(json);
 
-  // Метод для конвертации объекта Product в JSON
   Map<String, dynamic> toJson() => _$ProductToJson(this);
 }
