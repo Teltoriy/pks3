@@ -6,3 +6,5 @@
 ![image](https://github.com/user-attachments/assets/cb913145-350e-48e2-a4f9-7a3386ebf094)
 
 ![image](https://github.com/user-attachments/assets/e43b817f-94d6-4a12-b3a3-00c2e371d82b)
+
+P.S Забыл добавить картинки в приложение, исправлю в ближайшее время.
