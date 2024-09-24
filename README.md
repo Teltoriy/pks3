@@ -7,4 +7,3 @@
 
 ![image](https://github.com/user-attachments/assets/e43b817f-94d6-4a12-b3a3-00c2e371d82b)
 
-P.S Забыл добавить картинки в приложение, исправлю в ближайшее время.
